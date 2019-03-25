@@ -48,6 +48,6 @@ I have complete code relate data source, you just need to complete sort and outp
 
 ##### 说明：
 
-​        之前问出题人员输出的时候输出 commit message(type == message), contains prepare andcommit token中的commit token还是要输出 commit message(type == message), contains prepare andcommit token中的ontains prepare and contains prepare，得到的回复是都可以，这不是最重要的。因为我用到的是桶排序，如果要再输出contains prepare，只是增加每只桶内排序时比较的复杂度，不影响算法总体的复杂度。
+​        之前问出题人员输出的时候输出 commit message(type == message), contains prepare andcommit token中的commit token还是要输出 commit message(type == message), contains prepare andcommit token中的ontains prepare and commit token，得到的回复是都可以，这不是最重要的。因为我用到的是桶排序，如果要再输出contains prepare，只是增加每只桶内排序时比较的复杂度，不影响算法总体的复杂度。
 
 © 2019 GitHub, Inc.
